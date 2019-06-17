@@ -1,0 +1,93 @@
+#+TITLE: Ressources Emacs
+#+AUTHOR: Laurent Garnier
+
+* In English
+** Config 
+  + [[http://www.gonsie.com/blorg/subl-to-emacs.html]]
+  + [[http://pragmaticemacs.com/installing-and-setting-up-emacs/]]
+  + [[https://blog.aaronbieber.com/2015/07/05/a-gentle-introduction-to-emacs-configuration.html]]
+  + [[http://www.i3s.unice.fr/~malapert/org/tips/emacs_orgmode.html]]
+  + [[https://karl-voit.at/2017/06/03/emacs-org/]]
+  + [[https://app-learninglab.inria.fr/gitlab/learning-lab/mooc-rr-ressources/blob/master/module2/ressources/emacs_orgmode.org][MOOC]]
+  + [[https://www.emacswiki.org/emacs/EmacsForMacOS]]
+  + [[http://ergoemacs.org/emacs/emacs_make_modern.html]]
+  + [[https://zzamboni.org/post/my-emacs-configuration-with-commentary/]]
+  + [[https://github.com/larstvei/dot-emacs]]
+  + [[https://github.com/seth/my-emacs-dot-d/blob/master/emacs-init.org]]
+  + [[https://melpa.org/#/getting-started]]
+  + [[https://cestlaz.github.io/posts/using-emacs-10-org-init/]]
+  + [[https://pages.sachachua.com/.emacs.d/Sacha.html]]
+
+** HTML
+   + [[https://www.gnu.org/software/emacs/manual/html_node/emacs/HTML-Mode.html]]
+   + [[http://emacsrocks.com/e12.html]]
+   + [[http://web-mode.org/]]
+   + [[http://ergoemacs.org/emacs/emacs_html.html]]
+   + [[https://www.emacswiki.org/emacs/HtmlMode]]
+** CSS
+   + [[https://www.emacswiki.org/emacs/CascadingStyleSheetMode]]
+   + [[https://github.com/xahlee/xah-css-mode]]
+   + [[http://ergoemacs.org/emacs/emacs_CSS_colors.html]]
+   + [[https://youtu.be/wZxPwBcLgMk]]
+   + [[http://blog.binchen.org/posts/code-completion-for-htmljscss-in-emacs.html]]
+
+** JS
+  + [[https://emacs.cafe/]]
+  + [[https://wikemacs.org/wiki/JavaScript]]
+  + [[https://github.com/NicolasPetton/Indium]]
+  + [[https://github.com/mooz/js2-mode]]
+  + [[https://www.emacswiki.org/emacs/JavaScriptMode]]
+** PHP
+  + [[https://www.emacswiki.org/emacs/PhpMode]]
+  + [[https://github.com/emacs-php/php-mode/wiki/Installation]]
+  + [[https://github.com/emacs-php/php-suite]]
+  + [[https://www.philnewton.net/guides/emacs-as-a-php-editor/]]
+  + [[https://youtu.be/2uN5Bp_ezWQ]]
+   
+** Python
+  + [[https://realpython.com/emacs-the-best-python-editor/]]
+  + [[https://ensiwiki.ensimag.fr/index.php?title=Premiers_pas_avec_Emacs_et_Python]]
+  + [[https://www.emacswiki.org/emacs/PythonProgrammingInEmacs]]
+  + [[https://www.fullstackpython.com/emacs.html]]
+  + [[https://www.seas.upenn.edu/~chaoliu/2017/09/01/python-programming-in-emacs/]]
+  
+** Ruby
+   + [[https://dev.to/thiagoa/ruby-and-emacs-tip-advanced-pry-integration-33bk]]
+   + [[https://worace.works/2016/06/07/getting-started-with-emacs-for-ruby/]]
+   + [[http://endlessparentheses.com/turbo-up-your-ruby-console-in-emacs.html]]
+   + [[https://www.emacswiki.org/emacs/RubyLanguage]]
+   + [[https://mixandgo.com/learn/how-ive-convinced-emacs-to-dance-with-ruby]]
+
+** Solidity
+  + [[http://blog.bradlucas.com/posts/2017-08-07-emacs-and-solidity/]]
+  + https://github.com/ethereum/emacs-solidity
+  + [[https://melpa.org/#/solidity-mode]]
+** C++
+   + [[http://martinsosic.com/development/emacs/2017/12/09/emacs-cpp-ide.html]]
+   + [[https://youtu.be/7SQmleA4EMo]]
+   + [[https://nilsdeppe.com/posts/emacs-c++-ide2]]
+   + [[https://oremacs.com/2017/03/28/emacs-cpp-ide/]]
+   + [[https://www.seas.upenn.edu/~chaoliu/2017/09/01/c-cpp-programming-in-emacs/]]
+   + [[http://blog.binchen.org/posts/emacs-as-c-ide-easy-way.html]]
+   + [[https://irreal.org/blog/?p=7063]]
+** Blogging
+   + [[https://endlessparentheses.com/how-i-blog-one-year-of-posts-in-a-single-org-file.html]]
+   + [[https://irreal.org/blog/?p=7731]]
+   + [[https://diego.codes/post/blogging-with-org/]]
+   + [[https://www.emacswiki.org/emacs/OrgBlogging]]
+   + [[https://news.ycombinator.com/item?id=17714815]]
+   + [[https://orgmode.org/worg/org-blog-wiki.html]]
+   + [[http://www.modernemacs.com/post/org-mode-blogging/]]
+   + [[https://cestlaz.github.io/posts/using-emacs-35-blogging/]]
+   + [[https://www.brautaset.org/articles/2017/blogging-with-org-mode.html]]
+   + [[https://gist.github.com/dashohoxha/5981222]]
+   + [[http://dashohoxha.fs.al/building-technical-blog-site-with-jekyll-and-emacs/]]
+   + [[https://www.masteringemacs.org/]]
+   + [[http://emacs.sexy/]]
+   + [[https://emacscast.org/]]
+   + [[https://emacsredux.com/blog/2019/01/10/the-emacs-year-in-review/]]
+   + [[http://emacsrocks.com/]]
+* En français 
+  + [[https://www.tuteurs.ens.fr/unix/editeurs/emacs.html]]
+  + [[http://sdz.tdct.org/sdz/votre-premier-emacs-la-configuration-d-emacs-pour-les-zeros.html][sdz]]
+  
